@@ -10,33 +10,54 @@ function About() {
         <div>
           <h1 className="text-3xl font-bold mb-5">About</h1>
           <p>
-            Hello, I'm Akhil, a passionate Web developer with a keen eye for
-            MERN Stack . With a background in IT, I strive to create impactful
-            and visually stunning Software solutions that leave a lasting
-            impression.
+            Hi, I'm Sajeev Jaydhar, a passionate Frontend Developer with a
+            strong foundation in HTML, CSS, React, Tailwind CSS, and Git. I
+            graduated with a Bachelor of Computer Applications (BCA) in 2023,
+            and since then, I've been dedicated to crafting clean, responsive,
+            and user-friendly web interfaces. I enjoy turning ideas into reality
+            through code and constantly strive to stay updated with the latest
+            trends in frontend development.
           </p>
           <br />
-          <h1 className="text-green-600 font-semibold text-xl">
-            Education &amp; Training
-          </h1>
-
+          <h1 className="text-green-600 font-semibold text-xl">Education</h1>
           <span>
-            [Degree/Certification], [Institution], [Year]
-            [Degree/Certification], [Institution], [Year] [Relevant Course],
-            [Platform/Institution], [Year]
+            <span> Bachelor of Computer Applications (BCA)</span>
+            <br />
+            <span>Droan Group of Colleges | 2019 – 2023</span>
+            <br />
+            <span>Graduated in 2023</span>
+            <br />
+            <span>
+              <b> Key Subjects : </b>
+            </span>
+            Web Development, Data Structures, Computer Networks, DBMS Activities
+            & Achievements: Built web projects using React, Participated in
+            coding competitions
           </span>
           <br />
           <br />
           <h1 className="text-green-600 font-semibold text-xl">
             Skills &amp; Expertise
           </h1>
+          <h2 className="mt-4">Frontend Development</h2>
+          <li> HTML5, CSS3, JavaScript (ES6+)</li>
+          <li>Responsive Design & Cross-Browser Compatibility</li>
+          <li>Component-Based Architecture with React</li>
+          <br />
+          <h2> Frameworks & Libraries</h2>
+          <li>React.js</li>
+          <li>Tailwind CSS</li>
+          <li> React Hooks (useState, useEffect, etc.)</li>
+          <br />
+          <h2>Version Control</h2>
+          <li> Git & GitHub</li>
+          <li>Branching, Merging, Pull Requests</li>
+          <br />
+          <h2>Tools & Workflow</h2>
+          <li> VS Code, Chrome DevTools </li>
+          <li> NPM, Vite, Netlify </li>
+          <li>Basic CLI usage</li>
 
-          <span>
-            Proficient in [Programming Languages] Experienced with [Software
-            Tools/Technologies] Strong grasp of [Design Principles/Concepts]
-            Excellent problem-solving skills Effective communicator and
-            collaborator
-          </span>
           <br />
           <br />
           <h1 className="text-green-600 font-semibold text-xl">

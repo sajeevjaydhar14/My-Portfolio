@@ -1,4 +1,5 @@
 import React from 'react';
+import blogImage from '../../public/blog-pic-colorfull.jpg';
 
 function Blog() {
   const blogs = [
@@ -61,8 +62,8 @@ function Blog() {
           <div className="md:mt-14 flex justify-center md:w-1/2 md:h-1/2 w-full h-full mt-4 overflow-hidden order-1 md:order-2">
             <img
               className="w-full h-full md:w-1/2 md:h-1/2 object-cover rounded-lg"
-              src="../../public/blog-pic-colorfull.jpg"
-              alt=""
+              src={blogImage}
+              alt="blog pic"
             />
           </div>
         </div>

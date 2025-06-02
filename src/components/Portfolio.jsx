@@ -31,12 +31,20 @@ function Portfolio() {
               Lorem ipsum, dolor sit amet consectetur adipisicing elit.
             </p>
             <div className="space-x-3">
-              <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded">
+              <a
+                href="https://github.com/sajeevjaydhar14/Recipe-Finder.git"
+                target="_blank"
+                className="bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded"
+              >
                 GitHub
-              </button>
-              <button className="bg-green-500 hover:bg-green-700 text-white font-bold px-4 py-2 rounded">
+              </a>
+              <a
+                href="https://recipe-get.netlify.app/"
+                target="_blank"
+                className="bg-green-500 hover:bg-green-700 text-white font-bold px-4 py-2 rounded"
+              >
                 Netlify
-              </button>
+              </a>
             </div>
           </div>
         </div>
@@ -54,12 +62,20 @@ function Portfolio() {
               Lorem ipsum, dolor sit amet consectetur adipisicing elit.
             </p>
             <div className="space-x-3">
-              <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded">
+              <a
+                href="https://github.com/sajeevjaydhar14/E-Comerce-website.git"
+                target="_blank"
+                className="bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded"
+              >
                 GitHub
-              </button>
-              <button className="bg-green-500 hover:bg-green-700 text-white font-bold px-4 py-2 rounded">
+              </a>
+              <a
+                href="https://ecmrc.netlify.app/"
+                target="_blank"
+                className="bg-green-500 hover:bg-green-700 text-white font-bold px-4 py-2 rounded"
+              >
                 Netlify
-              </button>
+              </a>
             </div>
           </div>
         </div>
