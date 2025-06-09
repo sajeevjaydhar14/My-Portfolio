@@ -63,35 +63,41 @@ function About() {
           <h1 className="text-green-600 font-semibold text-xl">
             Professional Experience
           </h1>
-          <span>
-            [Job Title], [Company/Organization], [Dates] [Brief description of
-            responsibilities and achievements] [Job Title],
-            [Company/Organization], [Dates] [Brief description of
-            responsibilities and achievements] [Freelance/Contract Work],
-            [Client/Organization], [Dates] [Brief description of projects and
-            contributions]
-          </span>
-          <br />
-          <br />
-          <h1 className="text-green-600 font-semibold text-xl">
-            Achievements &amp; Awards
-          </h1>
-          <span>
-            [Award/Recognition], [Organization/Institution], [Year]
-            [Achievement], [Organization/Platform], [Year]
-          </span>
-          <br />
-          <br />
-          <h1 className="text-green-600 font-semibold text-xl">
-            Mission Statement
-          </h1>
-          <p>
-            My mission is to leverage my skills and creativity to deliver
-            innovative [Your Field] solutions that exceed client expectations
-            and contribute positively to the digital landscape. I am committed
-            to continuous learning and growth, always seeking new challenges and
-            opportunities to expand my horizons.
+          <p className="my-4">
+            <b>Frontend Web Developer : </b>
+            Freelance and Personal Projects
           </p>
+          <span>
+            <li>
+              Designed and developed responsive websites using HTML, CSS,
+              JavaScript, and Tailwind CSS, focusing on clean UI/UX and
+              performance optimization.
+            </li>
+            <li>
+              Collaborated with open web APIs to build interactive applications,
+              handling data fetching, state updates, and DOM manipulation
+              efficiently.
+            </li>
+            <li>
+              Applied React.js and React Hooks (useState, useEffect, useRef) to
+              create dynamic components and manage application state in a
+              modular way
+            </li>
+            <li>
+              Used Git and GitHub for version control, and deployed projects on
+              Netlify, practic
+            </li>
+            <li>
+              • Built real-world apps like a Portfolio Website, Recipe Finder
+              App, and E-Commerce Website, simulating real client needs,
+              optimizing for accessibility, SEO, and cross sdevice
+              compatibility.
+            </li>
+            <li>
+              Continuously improved code quality using best practices, modular
+              design, and clean architecture.
+            </li>
+          </span>
         </div>
       </div>
     </>
